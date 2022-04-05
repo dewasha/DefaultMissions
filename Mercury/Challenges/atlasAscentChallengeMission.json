@@ -1,7 +1,7 @@
 {
     "AllowRandomFailures": true,
-    "BriefingText": "BRIEFING\r\n\r\nNo assignment, enjoy your flight.",
-    "Description": "Enter the Mercury-Atlas rocket in an open world with no assigned mission.",
+    "BriefingText": "INFORME\r\n\r\nSin asignaciones, ten un buen vuelo.",
+    "Description": "Entra en el cohete Mercury-Atlas en un mundo abierto sin misión asignada.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "ID": "ba715f65-f89a-4023-9c9c-f3626b871415",
@@ -25,7 +25,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "{{profileName}}, perform a manual ascent and insertion into parking a 163x265 km orbit with inclination 32.5 degrees.",
+            "Message": "{{profileName}}, realizar un ascenso manual e inserción en estacionamiento en una órbita de 163x265 km con inclinación de 32,5 grados.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -45,7 +45,7 @@
     "MissionGoals": [
         {
             "Completed": false,
-            "Description": "Splashdown",
+            "Description": "Amerizaje",
             "Progress": null,
             "String1": "",
             "String2": "",
@@ -65,5 +65,5 @@
     "StartInOrbit": false,
     "TargetAp": 161.0,
     "TargetPe": 161.0,
-    "Title": "Atlas Ascent Challenge 1"
+    "Title": "Atlas Reto Ascensión 1"
 }
