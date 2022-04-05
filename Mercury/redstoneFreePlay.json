@@ -1,7 +1,7 @@
 {
     "AllowRandomFailures": true,
-    "BriefingText": "INFORME\r\n\r\nSin asignación, disfrute de su vuelo.",
-    "Description": "Entra en el cohete Mercury-Redstone en un mundo abierto sin misión asignada.",
+    "BriefingText": "BRIEFING\r\n\r\nNo assignment, enjoy your flight.",
+    "Description": "Enter the Mercury-Redstone rocket in an open world with no assigned mission.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "ID": "fad7d6d5-c19a-4a44-92c0-8d0464c647f5",
@@ -25,7 +25,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "{{profileName}}, ten un buen vuelo. Ponte en contacto si hay algo que necesites.",
+            "Message": "{{profileName}}, Have a good flight. Get in touch if there is anything you need.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -45,7 +45,7 @@
     "MissionGoals": [
         {
             "Completed": false,
-            "Description": "Amerizaje",
+            "Description": "Splashdown",
             "Progress": null,
             "String1": "",
             "String2": "",
@@ -65,5 +65,5 @@
     "StartInOrbit": false,
     "TargetAp": 185.0,
     "TargetPe": 30.0,
-    "Title": "Redstone JUEGO LIBRE"
+    "Title": "Redstone FREE GAME"
 }
